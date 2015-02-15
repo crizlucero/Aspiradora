@@ -1,0 +1,13 @@
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\bin\Debug\Aspiradora.exe.config
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\bin\Debug\Aspiradora.exe
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\bin\Debug\Aspiradora.pdb
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\obj\Debug\Aspiradora.csprojResolveAssemblyReference.cache
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\obj\Debug\MainWindow.baml
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\obj\Debug\MainWindow.g.cs
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\obj\Debug\App.g.cs
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\obj\Debug\Aspiradora_MarkupCompile.cache
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\obj\Debug\Aspiradora.g.resources
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\obj\Debug\Aspiradora.Properties.Resources.resources
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\obj\Debug\Aspiradora.csproj.GenerateResource.Cache
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\obj\Debug\Aspiradora.exe
+c:\users\christianjavier\documents\visual studio 2012\Projects\Aspiradora\Aspiradora\obj\Debug\Aspiradora.pdb
